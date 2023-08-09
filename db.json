@@ -11,7 +11,7 @@
       "name": "Javascript",
       "description": "This is javascript course",
       "image": "https://example.com/react.jpg",
-      "price": "5000",
+      "price": "5000"
       "id": 2
     }
   ]
