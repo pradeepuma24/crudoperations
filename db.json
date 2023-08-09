@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "React",
+      "description": "This is react course",
+      "image": "https://example.com/react.jpg",
+      "price": 2000
+    },
+    {
+      "name": "Javascript",
+      "description": "This is javascript course",
+      "image": "https://example.com/react.jpg",
+      "price": "5000",
+      "id": 2
+    }
+  ]
+}
